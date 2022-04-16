@@ -1,0 +1,36 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "Projeto de teste form",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/\u0016github.com/kleberandradejua.git"
+  },
+  "keywords": [
+    "bugereats",
+    "cypress",
+    "testesautomatiados",
+    "kleber",
+    "de",
+    "andrade"
+  ],
+  "author": "KLeber de Andrade\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[l",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/\u0016github.com/kleberandradejua/issues"
+  },
+  "homepage": "https://github.com/\u0016github.com/kleberandradejua#readme",
+  "devDependencies": {
+    "cypress": "^9.5.1",
+    "cypress-file-upload": "^5.0.8",
+    "faker": "^5.5.3",
+    "gerador-validador-cpf": "^5.0.2"
+  },
+  "dependencies": {
+    "faker-br": "^0.4.1"
+  }
+}

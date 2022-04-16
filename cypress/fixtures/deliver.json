@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name": "Kleber de Andrade",
+        "cpf": "05731294364",
+        "email": "kleberandrade09@gmail.com",
+        "whatsapp": "88981247728",
+        "address": {
+            "postalcode": "63016130",
+            "street": "Rua Marechal Mascarenhas de Morais",
+            "district": "Juvencio Santana",
+            "city_state": "Juazeiro do Norte/CE",
+            "number": "37"
+
+        },
+        "delivery_method": "Moto",
+        "cnh": "images/cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Kleber de Andrade",
+        "cpf": "05731294364AB",
+        "email": "kleberandrade09@gmail.com",
+        "whatsapp": "88981247728",
+        "address": {
+            "postalcode": "63016130",
+            "street": "Rua Marechal Mascarenhas de Morais",
+            "district": "Juvencio Santana",
+            "city_state": "Juazeiro do Norte/CE",
+            "number": "37"
+
+        },
+        "delivery_method": "Moto",
+        "cnh": "images/cnh-digital.jpg"
+    },
+    "email_wrong":{
+        "name": "Kleber de Andrade",
+        "cpf": "05731294364",
+        "email": "kleberandrade09.gmail.com",
+        "whatsapp": "88981247728",
+        "address": {
+            "postalcode": "63016130",
+            "street": "Rua Marechal Mascarenhas de Morais",
+            "district": "Juvencio Santana",
+            "city_state": "Juazeiro do Norte/CE",
+            "number": "37"
+
+        },
+        "delivery_method": "Moto",
+        "cnh": "images/cnh-digital.jpg"
+    }
+}
